@@ -1,0 +1,442 @@
+[23.04.23|16:17:56] Folder: "/db" FOUND
+[23.04.23|16:17:56] DATABASE: "users.db" FOUND
+[23.04.23|16:17:56] TABLE: "Users" FOUND
+[23.04.23|16:17:56] DATABASE: "posts.db" FOUND
+[23.04.23|16:17:56] TABLE: "Posts" FOUND
+[23.04.23|16:17:56] DATABASE: "comments.db" FOUND
+[23.04.23|16:17:56] TABLE: "Comments" FOUND
+[23.04.23|16:17:57] Folder: "/db" FOUND
+[23.04.23|16:17:57] DATABASE: "users.db" FOUND
+[23.04.23|16:17:58] TABLE: "Users" FOUND
+[23.04.23|16:17:58] DATABASE: "posts.db" FOUND
+[23.04.23|16:17:58] TABLE: "Posts" FOUND
+[23.04.23|16:17:58] DATABASE: "comments.db" FOUND
+[23.04.23|16:17:58] TABLE: "Comments" FOUND
+[23.04.23|16:18:52] ПОСТ: "1" НАЙДЕН
+[23.04.23|16:19:00] ПОСТ: "1" НАЙДЕН
+[23.04.23|16:20:36] Folder: "/db" FOUND
+[23.04.23|16:20:36] DATABASE: "users.db" FOUND
+[23.04.23|16:20:36] TABLE: "Users" FOUND
+[23.04.23|16:20:36] DATABASE: "posts.db" FOUND
+[23.04.23|16:20:36] TABLE: "Posts" FOUND
+[23.04.23|16:20:36] DATABASE: "comments.db" FOUND
+[23.04.23|16:20:36] TABLE: "Comments" FOUND
+[23.04.23|16:20:37] Folder: "/db" FOUND
+[23.04.23|16:20:37] DATABASE: "users.db" FOUND
+[23.04.23|16:20:37] TABLE: "Users" FOUND
+[23.04.23|16:20:37] DATABASE: "posts.db" FOUND
+[23.04.23|16:20:37] TABLE: "Posts" FOUND
+[23.04.23|16:20:37] DATABASE: "comments.db" FOUND
+[23.04.23|16:20:37] TABLE: "Comments" FOUND
+[23.04.23|16:21:07] пользователь: "kn911" добавлен в базу данных
+[23.04.23|16:21:17] 1 POINTS ADDED TO "kn911"
+[23.04.23|16:21:17] Пользователь: "kn911" Вошел
+[23.04.23|16:21:22] Пользователь: "kn911" найден
+[23.04.23|16:21:22] kn911
+[23.04.23|16:23:28] Folder: "/db" FOUND
+[23.04.23|16:23:28] DATABASE: "users.db" FOUND
+[23.04.23|16:23:28] TABLE: "Users" FOUND
+[23.04.23|16:23:28] DATABASE: "posts.db" FOUND
+[23.04.23|16:23:28] TABLE: "Posts" FOUND
+[23.04.23|16:23:28] DATABASE: "comments.db" FOUND
+[23.04.23|16:23:28] TABLE: "Comments" FOUND
+[23.04.23|16:23:28] Folder: "/db" FOUND
+[23.04.23|16:23:28] DATABASE: "users.db" FOUND
+[23.04.23|16:23:28] TABLE: "Users" FOUND
+[23.04.23|16:23:28] DATABASE: "posts.db" FOUND
+[23.04.23|16:23:28] TABLE: "Posts" FOUND
+[23.04.23|16:23:28] DATABASE: "comments.db" FOUND
+[23.04.23|16:23:28] TABLE: "Comments" FOUND
+[23.04.23|16:23:30] Пользователь: "kn911" найден
+[23.04.23|16:23:30] kn911
+[23.04.23|16:23:40] 1 POINTS ADDED TO "kn911"
+[23.04.23|16:23:40] Пользователь: "kn911" Вошел
+[23.04.23|16:23:42] Пользователь: "kn911" найден
+[23.04.23|16:23:42] kn911
+[23.04.23|16:24:52] Пользователь: "kn911" найден
+[23.04.23|16:24:52] kn911
+[23.04.23|16:25:32] ПОЛЬЗОВАТЕЛЬ: "kn911" ВЫШЕЛ
+[23.04.23|16:25:50] пользователь: "afds" добавлен в базу данных
+[23.04.23|16:25:57] 1 POINTS ADDED TO "afds"
+[23.04.23|16:25:57] Пользователь: "afds" Вошел
+[23.04.23|16:25:59] Пользователь: "afds" найден
+[23.04.23|16:25:59] afds
+[23.04.23|16:26:12] Пользователь: "kn911" найден
+[23.04.23|16:26:12] kn911
+[23.04.23|16:26:16] Пользователь: "afds" найден
+[23.04.23|16:26:16] afds
+[23.04.23|16:26:28] ПОЛЬЗОВАТЕЛЬ: "afds" ВЫШЕЛ
+[23.04.23|16:26:46] 1 POINTS ADDED TO "kn911"
+[23.04.23|16:26:46] Пользователь: "kn911" Вошел
+[23.04.23|16:26:49] ПОЛЬЗОВАТЕЛЬ: "kn911" ВЫШЕЛ
+[23.04.23|16:27:10] Folder: "/db" FOUND
+[23.04.23|16:27:10] DATABASE: "users.db" FOUND
+[23.04.23|16:27:10] TABLE: "Users" FOUND
+[23.04.23|16:27:10] DATABASE: "posts.db" FOUND
+[23.04.23|16:27:10] TABLE: "Posts" FOUND
+[23.04.23|16:27:10] DATABASE: "comments.db" FOUND
+[23.04.23|16:27:10] TABLE: "Comments" FOUND
+[23.04.23|16:27:11] Folder: "/db" FOUND
+[23.04.23|16:27:11] DATABASE: "users.db" FOUND
+[23.04.23|16:27:11] TABLE: "Users" FOUND
+[23.04.23|16:27:11] DATABASE: "posts.db" FOUND
+[23.04.23|16:27:11] TABLE: "Posts" FOUND
+[23.04.23|16:27:11] DATABASE: "comments.db" FOUND
+[23.04.23|16:27:11] TABLE: "Comments" FOUND
+[23.04.23|16:27:19] 1 POINTS ADDED TO "kn911"
+[23.04.23|16:27:19] Пользователь: "kn911" Вошел
+[23.04.23|16:27:27] POST: "авффва" POSTED
+[23.04.23|16:27:27] 20 POINTS ADDED TO "kn911"
+[23.04.23|16:27:28] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:28:48] Folder: "/db" FOUND
+[23.04.23|16:28:48] DATABASE: "users.db" FOUND
+[23.04.23|16:28:48] TABLE: "Users" FOUND
+[23.04.23|16:28:48] DATABASE: "posts.db" FOUND
+[23.04.23|16:28:48] TABLE: "Posts" FOUND
+[23.04.23|16:28:48] DATABASE: "comments.db" FOUND
+[23.04.23|16:28:48] TABLE: "Comments" FOUND
+[23.04.23|16:28:48] Folder: "/db" FOUND
+[23.04.23|16:28:48] DATABASE: "users.db" FOUND
+[23.04.23|16:28:48] TABLE: "Users" FOUND
+[23.04.23|16:28:48] DATABASE: "posts.db" FOUND
+[23.04.23|16:28:48] TABLE: "Posts" FOUND
+[23.04.23|16:28:48] DATABASE: "comments.db" FOUND
+[23.04.23|16:28:48] TABLE: "Comments" FOUND
+[23.04.23|16:28:51] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:29:02] Пользователь: "kn911@yandex.ru" не найден
+[23.04.23|16:29:09] 1 POINTS ADDED TO "kn911"
+[23.04.23|16:29:09] Пользователь: "kn911" Вошел
+[23.04.23|16:29:09] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:29:31] Folder: "/db" FOUND
+[23.04.23|16:29:31] DATABASE: "users.db" FOUND
+[23.04.23|16:29:31] TABLE: "Users" FOUND
+[23.04.23|16:29:31] DATABASE: "posts.db" FOUND
+[23.04.23|16:29:31] TABLE: "Posts" FOUND
+[23.04.23|16:29:31] DATABASE: "comments.db" FOUND
+[23.04.23|16:29:31] TABLE: "Comments" FOUND
+[23.04.23|16:29:31] Folder: "/db" FOUND
+[23.04.23|16:29:31] DATABASE: "users.db" FOUND
+[23.04.23|16:29:31] TABLE: "Users" FOUND
+[23.04.23|16:29:31] DATABASE: "posts.db" FOUND
+[23.04.23|16:29:31] TABLE: "Posts" FOUND
+[23.04.23|16:29:31] DATABASE: "comments.db" FOUND
+[23.04.23|16:29:31] TABLE: "Comments" FOUND
+[23.04.23|16:29:33] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:30:24] Folder: "/db" FOUND
+[23.04.23|16:30:24] DATABASE: "users.db" FOUND
+[23.04.23|16:30:24] TABLE: "Users" FOUND
+[23.04.23|16:30:24] DATABASE: "posts.db" FOUND
+[23.04.23|16:30:24] TABLE: "Posts" FOUND
+[23.04.23|16:30:24] DATABASE: "comments.db" FOUND
+[23.04.23|16:30:24] TABLE: "Comments" FOUND
+[23.04.23|16:30:47] Folder: "/db" FOUND
+[23.04.23|16:30:47] DATABASE: "users.db" FOUND
+[23.04.23|16:30:47] TABLE: "Users" FOUND
+[23.04.23|16:30:47] DATABASE: "posts.db" FOUND
+[23.04.23|16:30:47] TABLE: "Posts" FOUND
+[23.04.23|16:30:47] DATABASE: "comments.db" FOUND
+[23.04.23|16:30:47] TABLE: "Comments" FOUND
+[23.04.23|16:30:47] Folder: "/db" FOUND
+[23.04.23|16:30:47] DATABASE: "users.db" FOUND
+[23.04.23|16:30:47] TABLE: "Users" FOUND
+[23.04.23|16:30:47] DATABASE: "posts.db" FOUND
+[23.04.23|16:30:47] TABLE: "Posts" FOUND
+[23.04.23|16:30:47] DATABASE: "comments.db" FOUND
+[23.04.23|16:30:47] TABLE: "Comments" FOUND
+[23.04.23|16:30:50] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:30:52] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:30:55] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:30:57] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:30:58] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:30:58] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:30:59] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:00] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:00] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:01] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:02] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:23] Folder: "/db" FOUND
+[23.04.23|16:31:23] DATABASE: "users.db" FOUND
+[23.04.23|16:31:23] TABLE: "Users" FOUND
+[23.04.23|16:31:23] DATABASE: "posts.db" FOUND
+[23.04.23|16:31:23] TABLE: "Posts" FOUND
+[23.04.23|16:31:23] DATABASE: "comments.db" FOUND
+[23.04.23|16:31:23] TABLE: "Comments" FOUND
+[23.04.23|16:31:24] Folder: "/db" FOUND
+[23.04.23|16:31:24] DATABASE: "users.db" FOUND
+[23.04.23|16:31:24] TABLE: "Users" FOUND
+[23.04.23|16:31:24] DATABASE: "posts.db" FOUND
+[23.04.23|16:31:24] TABLE: "Posts" FOUND
+[23.04.23|16:31:24] DATABASE: "comments.db" FOUND
+[23.04.23|16:31:24] TABLE: "Comments" FOUND
+[23.04.23|16:31:24] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:32] 1 POINTS ADDED TO "kn911"
+[23.04.23|16:31:32] Пользователь: "kn911" Вошел
+[23.04.23|16:31:32] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:47] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:47] 5 POINTS ADDED TO "kn911"
+[23.04.23|16:31:47] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:31:53] комментарий: "4" удален
+[23.04.23|16:31:53] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:33:08] POST: "текст" POSTED
+[23.04.23|16:33:08] 20 POINTS ADDED TO "kn911"
+[23.04.23|16:33:10] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:33:13] ПОСТ: "3" НАЙДЕН
+[23.04.23|16:33:17] ПОСТ: "3" НАЙДЕН
+[23.04.23|16:33:44] ПОЛЬЗОВАТЕЛЬ: "kn911" ВЫШЕЛ
+[23.04.23|16:34:08] Folder: "/db" FOUND
+[23.04.23|16:34:08] DATABASE: "users.db" FOUND
+[23.04.23|16:34:08] TABLE: "Users" FOUND
+[23.04.23|16:34:08] DATABASE: "posts.db" FOUND
+[23.04.23|16:34:08] TABLE: "Posts" FOUND
+[23.04.23|16:34:08] DATABASE: "comments.db" FOUND
+[23.04.23|16:34:08] TABLE: "Comments" FOUND
+[23.04.23|16:34:08] Folder: "/db" FOUND
+[23.04.23|16:34:08] DATABASE: "users.db" FOUND
+[23.04.23|16:34:08] TABLE: "Users" FOUND
+[23.04.23|16:34:08] DATABASE: "posts.db" FOUND
+[23.04.23|16:34:08] TABLE: "Posts" FOUND
+[23.04.23|16:34:08] DATABASE: "comments.db" FOUND
+[23.04.23|16:34:08] TABLE: "Comments" FOUND
+[23.04.23|16:34:19] 1 POINTS ADDED TO "kn911"
+[23.04.23|16:34:19] Пользователь: "kn911" Вошел
+[23.04.23|16:34:20] ПОСТ: "3" НАЙДЕН
+[23.04.23|16:34:22] ПОСТ: "3" УДАЛЕН
+[23.04.23|16:34:24] ПОСТ: "2" НАЙДЕН
+[23.04.23|16:34:26] ПОСТ: "2" УДАЛЕН
+[23.04.23|16:34:33] Пользователь: "kn911" найден
+[23.04.23|16:34:33] kn911
+[23.04.23|16:34:48] Пользователь: "kn911" удален
+[23.04.23|16:34:54] ПОЛЬЗОВАТЕЛЬ НЕ ВОШЕЛ
+[23.04.23|16:34:54] 404
+[23.04.23|16:34:59] ПОЛЬЗОВАТЕЛЬ НЕ ВОШЕЛ
+[23.04.23|16:34:59] 404
+[23.04.23|16:42:08] Folder: "/db" FOUND
+[23.04.23|16:42:08] DATABASE: "users.db" FOUND
+[23.04.23|16:42:08] TABLE: "Users" FOUND
+[23.04.23|16:42:08] DATABASE: "posts.db" FOUND
+[23.04.23|16:42:08] TABLE: "Posts" FOUND
+[23.04.23|16:42:08] DATABASE: "comments.db" FOUND
+[23.04.23|16:42:08] TABLE: "Comments" FOUND
+[23.04.23|16:42:09] Folder: "/db" FOUND
+[23.04.23|16:42:09] DATABASE: "users.db" FOUND
+[23.04.23|16:42:09] TABLE: "Users" FOUND
+[23.04.23|16:42:09] DATABASE: "posts.db" FOUND
+[23.04.23|16:42:09] TABLE: "Posts" FOUND
+[23.04.23|16:42:09] DATABASE: "comments.db" FOUND
+[23.04.23|16:42:09] TABLE: "Comments" FOUND
+[23.04.23|16:42:20] Пользователь: "kn911@yandex.ru" не найден
+[23.04.23|16:42:27] 1 POINTS ADDED TO "afds"
+[23.04.23|16:42:27] Пользователь: "afds" Вошел
+[23.04.23|16:42:31] Пользователь: "afds" найден
+[23.04.23|16:42:31] afds
+[24.04.23|17:14:17] Пользователь: "afds" найден
+[24.04.23|17:14:17] afds
+[24.04.23|17:14:29] Пользователь: "afds" найден
+[24.04.23|17:14:29] afds
+[24.04.23|17:17:15] Folder: "/db" FOUND
+[24.04.23|17:17:15] DATABASE: "users.db" FOUND
+[24.04.23|17:17:15] TABLE: "Users" FOUND
+[24.04.23|17:17:15] DATABASE: "posts.db" FOUND
+[24.04.23|17:17:15] TABLE: "Posts" FOUND
+[24.04.23|17:17:15] DATABASE: "comments.db" FOUND
+[24.04.23|17:17:15] TABLE: "Comments" FOUND
+[24.04.23|17:17:22] Folder: "/db" FOUND
+[24.04.23|17:17:22] DATABASE: "users.db" FOUND
+[24.04.23|17:17:22] TABLE: "Users" FOUND
+[24.04.23|17:17:22] DATABASE: "posts.db" FOUND
+[24.04.23|17:17:22] TABLE: "Posts" FOUND
+[24.04.23|17:17:22] DATABASE: "comments.db" FOUND
+[24.04.23|17:17:22] TABLE: "Comments" FOUND
+[24.04.23|17:17:44] Folder: "/db" FOUND
+[24.04.23|17:17:44] DATABASE: "users.db" FOUND
+[24.04.23|17:17:44] TABLE: "Users" FOUND
+[24.04.23|17:17:44] DATABASE: "posts.db" FOUND
+[24.04.23|17:17:44] TABLE: "Posts" FOUND
+[24.04.23|17:17:44] DATABASE: "comments.db" FOUND
+[24.04.23|17:17:44] TABLE: "Comments" FOUND
+[24.04.23|17:17:57] Folder: "/db" FOUND
+[24.04.23|17:17:57] DATABASE: "users.db" FOUND
+[24.04.23|17:17:57] TABLE: "Users" FOUND
+[24.04.23|17:17:57] DATABASE: "posts.db" FOUND
+[24.04.23|17:17:57] TABLE: "Posts" FOUND
+[24.04.23|17:17:57] DATABASE: "comments.db" FOUND
+[24.04.23|17:17:57] TABLE: "Comments" FOUND
+[24.04.23|17:20:29] Folder: "/db" FOUND
+[24.04.23|17:20:29] DATABASE: "users.db" FOUND
+[24.04.23|17:20:29] TABLE: "Users" FOUND
+[24.04.23|17:20:29] DATABASE: "posts.db" FOUND
+[24.04.23|17:20:29] TABLE: "Posts" FOUND
+[24.04.23|17:20:29] DATABASE: "comments.db" FOUND
+[24.04.23|17:20:29] TABLE: "Comments" FOUND
+[24.04.23|17:20:30] Folder: "/db" FOUND
+[24.04.23|17:20:30] DATABASE: "users.db" FOUND
+[24.04.23|17:20:30] TABLE: "Users" FOUND
+[24.04.23|17:20:30] DATABASE: "posts.db" FOUND
+[24.04.23|17:20:30] TABLE: "Posts" FOUND
+[24.04.23|17:20:30] DATABASE: "comments.db" FOUND
+[24.04.23|17:20:30] TABLE: "Comments" FOUND
+[24.04.23|17:20:54] Пользователь: "kn911" не найден
+[24.04.23|17:21:14] пользователь: "kn911" добавлен в базу данных
+[24.04.23|17:21:19] 1 POINTS ADDED TO "kn911"
+[24.04.23|17:21:19] Пользователь: "kn911" Вошел
+[24.04.23|17:22:16] Folder: "/db" FOUND
+[24.04.23|17:22:16] DATABASE: "users.db" FOUND
+[24.04.23|17:22:16] TABLE: "Users" FOUND
+[24.04.23|17:22:16] DATABASE: "posts.db" FOUND
+[24.04.23|17:22:16] TABLE: "Posts" FOUND
+[24.04.23|17:22:16] DATABASE: "comments.db" FOUND
+[24.04.23|17:22:16] TABLE: "Comments" FOUND
+[24.04.23|17:22:17] Folder: "/db" FOUND
+[24.04.23|17:22:17] DATABASE: "users.db" FOUND
+[24.04.23|17:22:17] TABLE: "Users" FOUND
+[24.04.23|17:22:17] DATABASE: "posts.db" FOUND
+[24.04.23|17:22:17] TABLE: "Posts" FOUND
+[24.04.23|17:22:17] DATABASE: "comments.db" FOUND
+[24.04.23|17:22:17] TABLE: "Comments" FOUND
+[24.04.23|17:22:20] Пользователь не вошел
+[24.04.23|17:22:20] 404
+[24.04.23|17:22:27] 1 POINTS ADDED TO "kn911"
+[24.04.23|17:22:27] Пользователь: "kn911" Вошел
+[24.04.23|17:22:58] Folder: "/db" FOUND
+[24.04.23|17:22:58] DATABASE: "users.db" FOUND
+[24.04.23|17:22:58] TABLE: "Users" FOUND
+[24.04.23|17:22:58] DATABASE: "posts.db" FOUND
+[24.04.23|17:22:58] TABLE: "Posts" FOUND
+[24.04.23|17:22:58] DATABASE: "comments.db" FOUND
+[24.04.23|17:22:58] TABLE: "Comments" FOUND
+[24.04.23|17:22:58] Folder: "/db" FOUND
+[24.04.23|17:22:58] DATABASE: "users.db" FOUND
+[24.04.23|17:22:58] TABLE: "Users" FOUND
+[24.04.23|17:22:58] DATABASE: "posts.db" FOUND
+[24.04.23|17:22:58] TABLE: "Posts" FOUND
+[24.04.23|17:22:58] DATABASE: "comments.db" FOUND
+[24.04.23|17:22:58] TABLE: "Comments" FOUND
+[24.04.23|17:23:09] 1 POINTS ADDED TO "kn911"
+[24.04.23|17:23:09] Пользователь: "kn911" Вошел
+[24.04.23|17:27:37] POST: "авфы" POSTED
+[24.04.23|17:27:37] 20 POINTS ADDED TO "kn911"
+[24.04.23|17:27:40] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:27:43] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:28:46] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:31:38] Folder: "/db" FOUND
+[24.04.23|17:31:38] DATABASE: "users.db" FOUND
+[24.04.23|17:31:38] TABLE: "Users" FOUND
+[24.04.23|17:31:38] DATABASE: "posts.db" FOUND
+[24.04.23|17:31:38] TABLE: "Posts" FOUND
+[24.04.23|17:31:38] DATABASE: "comments.db" FOUND
+[24.04.23|17:31:38] TABLE: "Comments" FOUND
+[24.04.23|17:31:39] Folder: "/db" FOUND
+[24.04.23|17:31:39] DATABASE: "users.db" FOUND
+[24.04.23|17:31:39] TABLE: "Users" FOUND
+[24.04.23|17:31:39] DATABASE: "posts.db" FOUND
+[24.04.23|17:31:39] TABLE: "Posts" FOUND
+[24.04.23|17:31:39] DATABASE: "comments.db" FOUND
+[24.04.23|17:31:39] TABLE: "Comments" FOUND
+[24.04.23|17:31:44] Ползователь не вошел
+[24.04.23|17:31:44] 404
+[24.04.23|17:31:50] 1 POINTS ADDED TO "kn911"
+[24.04.23|17:31:50] Пользователь: "kn911" Вошел
+[24.04.23|17:31:52] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:31:54] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:32:02] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:32:11] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:32:36] Folder: "/db" FOUND
+[24.04.23|17:32:36] DATABASE: "users.db" FOUND
+[24.04.23|17:32:36] TABLE: "Users" FOUND
+[24.04.23|17:32:36] DATABASE: "posts.db" FOUND
+[24.04.23|17:32:36] TABLE: "Posts" FOUND
+[24.04.23|17:32:36] DATABASE: "comments.db" FOUND
+[24.04.23|17:32:36] TABLE: "Comments" FOUND
+[24.04.23|17:32:36] Folder: "/db" FOUND
+[24.04.23|17:32:36] DATABASE: "users.db" FOUND
+[24.04.23|17:32:36] TABLE: "Users" FOUND
+[24.04.23|17:32:36] DATABASE: "posts.db" FOUND
+[24.04.23|17:32:36] TABLE: "Posts" FOUND
+[24.04.23|17:32:36] DATABASE: "comments.db" FOUND
+[24.04.23|17:32:36] TABLE: "Comments" FOUND
+[24.04.23|17:32:41] Ползователь не вошел
+[24.04.23|17:32:41] 404
+[24.04.23|17:33:04] 1 POINTS ADDED TO "kn911"
+[24.04.23|17:33:04] Пользователь: "kn911" Вошел
+[24.04.23|17:33:06] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:09] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:11] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:11] пост: "авфы" изменен
+[24.04.23|17:33:11] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:14] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:17] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:17] пост: "авфы" изменен
+[24.04.23|17:33:17] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:20] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:23] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:23] пост: "авфы" изменен
+[24.04.23|17:33:23] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:25] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:30] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:30] пост: "авфы" изменен
+[24.04.23|17:33:30] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:32] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:38] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:38] пост: "авфы" изменен
+[24.04.23|17:33:38] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:40] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:33:53] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:41:29] Folder: "/db" FOUND
+[24.04.23|17:41:29] DATABASE: "users.db" FOUND
+[24.04.23|17:41:29] TABLE: "Users" FOUND
+[24.04.23|17:41:29] DATABASE: "posts.db" FOUND
+[24.04.23|17:41:29] TABLE: "Posts" FOUND
+[24.04.23|17:41:29] DATABASE: "comments.db" FOUND
+[24.04.23|17:41:29] TABLE: "Comments" FOUND
+[24.04.23|17:43:15] Folder: "/db" FOUND
+[24.04.23|17:43:15] DATABASE: "users.db" FOUND
+[24.04.23|17:43:15] TABLE: "Users" FOUND
+[24.04.23|17:43:15] DATABASE: "posts.db" FOUND
+[24.04.23|17:43:15] TABLE: "Posts" FOUND
+[24.04.23|17:43:15] DATABASE: "comments.db" FOUND
+[24.04.23|17:43:15] TABLE: "Comments" FOUND
+[24.04.23|17:43:16] Folder: "/db" FOUND
+[24.04.23|17:43:16] DATABASE: "users.db" FOUND
+[24.04.23|17:43:16] TABLE: "Users" FOUND
+[24.04.23|17:43:16] DATABASE: "posts.db" FOUND
+[24.04.23|17:43:16] TABLE: "Posts" FOUND
+[24.04.23|17:43:16] DATABASE: "comments.db" FOUND
+[24.04.23|17:43:16] TABLE: "Comments" FOUND
+[24.04.23|17:43:20] Ползователь не вошел
+[24.04.23|17:43:20] 404
+[24.04.23|17:43:25] 1 POINTS ADDED TO "kn911"
+[24.04.23|17:43:25] Пользователь: "kn911" Вошел
+[24.04.23|17:43:27] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:43:29] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:44:09] Folder: "/db" FOUND
+[24.04.23|17:44:09] DATABASE: "users.db" FOUND
+[24.04.23|17:44:09] TABLE: "Users" FOUND
+[24.04.23|17:44:09] DATABASE: "posts.db" FOUND
+[24.04.23|17:44:09] TABLE: "Posts" FOUND
+[24.04.23|17:44:09] DATABASE: "comments.db" FOUND
+[24.04.23|17:44:09] TABLE: "Comments" FOUND
+[24.04.23|17:44:10] Folder: "/db" FOUND
+[24.04.23|17:44:10] DATABASE: "users.db" FOUND
+[24.04.23|17:44:10] TABLE: "Users" FOUND
+[24.04.23|17:44:10] DATABASE: "posts.db" FOUND
+[24.04.23|17:44:10] TABLE: "Posts" FOUND
+[24.04.23|17:44:10] DATABASE: "comments.db" FOUND
+[24.04.23|17:44:10] TABLE: "Comments" FOUND
+[24.04.23|17:44:12] Ползователь не вошел
+[24.04.23|17:44:12] 404
+[24.04.23|17:44:16] 1 POINTS ADDED TO "kn911"
+[24.04.23|17:44:16] Пользователь: "kn911" Вошел
+[24.04.23|17:44:18] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:44:20] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:45:58] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:45:58] пост: "Пост1" изменен
+[24.04.23|17:45:58] ПОСТ: "2" НАЙДЕН
+[24.04.23|17:46:03] Пользователь: "kn911" найден
+[24.04.23|17:46:03] kn911
+[24.04.23|17:46:22] Пользователь: "kn911" поменял юзернейм на "admin"
+[24.04.23|17:46:22] Пользователь: "admin" найден
+[24.04.23|17:46:22] admin
+[24.04.23|17:46:36] ПОЛЬЗОВАТЕЛЬ: "admin" ПОМЕНЯЛ СВОЙ ПАРОЛЬ
+[24.04.23|17:46:36] 404
+[24.04.23|17:46:49] 1 POINTS ADDED TO "admin"
+[24.04.23|17:46:49] Пользователь: "admin" Вошел
