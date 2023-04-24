@@ -1,0 +1,19 @@
+{% extends 'layout.html'%} {%block head%}
+<title>Админ</title>
+<link
+  rel="stylesheet"
+  href="{{ url_for('static', filename='css/adminPanel.css') }}"/>
+{% endblock head %} {%block body%}
+<div class="toPanelsContainer">
+  <h1>
+    <a href="admin/users" class="toPanel textPrimary">Пользователи</a>
+  </h1>
+  <h1>
+    <a href="admin/posts" class="toPanel textPrimary">Посты</a>
+  </h1>
+  <h1>
+    <a href="admin/comments" class="toPanel textPrimary">Комментарии</a>
+  </h1>
+</div>
+
+{% endblock body %}

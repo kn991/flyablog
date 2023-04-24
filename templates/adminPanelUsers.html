@@ -1,0 +1,45 @@
+{% extends 'layout.html'%} {%block head%}
+<title>Управление</title>
+<link
+  rel="stylesheet"
+  href="{{ url_for('static', filename='css/adminPanel.css') }}"/>
+{% endblock head %} {%block body%}
+<div class="usersContainer">
+  <h1 class="textCenter">Пользователи</h1>
+  {% for user in users %}
+  <div class="userContainer">
+    <section class="stats">
+      <p>ID: {{user[0]}}</p>
+      <p>Роль: {{user[5]}}</p>
+    </section>
+    <section class="stats">
+      <p>
+        Имя пользователя:
+        <a href="/user/{{user[1].lower()}}" class="textPrimary">{{user[1]}}</a>
+      </p>
+      <img src="{{user[4]}}" alt="{{user[1]}}" class="picture" />
+    </section>
+    <section class="stats">
+      <p>почта: {{user[2]}}</p>
+      <p>Очки: {{user[6]}}</p>
+    </section>
+    <section class="stats">
+      <p>Дата регистрации: {{user[7]}}</p>
+      <p>Время регистрации: {{user[8]}}</p>
+    </section>
+    <section class="stats">
+      <a
+        href="deleteuser/{{user[1].lower()}}/redirect=&admin&users"
+        class="textPrimary">Удалить аккаунт</a>
+      {% if user[5] == "admin" %}
+      <a href="/setuserrole/{{user[1].lower()}}/user" class="textPrimary"
+        >Сделать пользователем</a>
+      {% else %}
+      <a href="/setuserrole/{{user[1].lower()}}/admin" class="textPrimary">Сделать админом</a>
+      {% endif %}
+    </section>
+  </div>
+  {% endfor %}
+</div>
+<a href="/admin" class="btn btnLink textPrimary">Вернуться к управлению ↩️</a>
+{% endblock body %}
